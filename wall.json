@@ -1,80 +1,68 @@
 [{
-		"name": "Uskudar@Istanbul",
+		"name": "Chrome Abstraction",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp1.jpg",
-		"collections": "landscapes,seaside,istanbul"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp33.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "Spring@Istanbul",
+		"name": "Yellow Drop",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp2.JPG",
-		"collections": "landscapes,flowers,istanbul"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp34.png",
+		"collections": "abstract"
 	},
 	{
-		"name": "Beach@Yalova",
+		"name": "Sparks in the dark",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp3.JPG",
-		"collections": "seaside,yalova"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp35.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "KizKulesi@Istanbul",
+		"name": "Blue Roundings",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp4.JPG",
-		"collections": "seaside,istanbul"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp36.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "Live flowers of cottage",
+		"name": "Skin of father tree",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp5.JPG",
-		"collections": "flowers,istanbul"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp37.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "Cottage flowers 2",
+		"name": "Blue whirl",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp6.JPG",
-		"collections": "flowers,istanbul"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp38.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "Calendulas on the farmway",
+		"name": "Wall draw 1",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp7.JPG",
-		"collections": "flowers"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp39.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "Jasmines of Marmara",
+		"name": "Wall draw 2",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp8.JPG",
-		"collections": "flowers"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp40.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "Pinks of the farm",
+		"name": "Never ending tail",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp9.JPG",
-		"collections": "flowers"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp41.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "Daisies rising",
+		"name": "Cells blackened",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp10.JPG",
-		"collections": "flowers"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp42.jpg",
+		"collections": "abstract"
 	},
 	{
-		"name": "Islands of Istanbul",
+		"name": "Black whirl",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp11.JPG",
-		"collections": "istanbul,landscapes"
-	},
-	{
-		"name": "From plane",
-		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp12.JPG",
-		"collections": "sky"
-	},
-	{
-		"name": "Ducks hanging at park",
-		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp13.JPG",
-		"collections": "istanbul"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp43.jpg",
+		"collections": "abstract"
 	},
 	{
 		"name": "From chaos to lean",
@@ -149,6 +137,36 @@
 		"collections": "abstract"
 	},
 	{
+		"name": "Corn grill",
+		"author": "SufficMobile",
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp44.jpg",
+		"collections": "abstract"
+	},
+	{
+		"name": "Night of sea side",
+		"author": "SufficMobile",
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp45.jpg",
+		"collections": "seaside"
+	},
+	{
+		"name": "Dawn at metropole",
+		"author": "SufficMobile",
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp46.jpg",
+		"collections": "landscapes"
+	},
+	{
+		"name": "Snowy road",
+		"author": "SufficMobile",
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp47.jpg",
+		"collections": "winter"
+	},
+	{
+		"name": "Alone bird",
+		"author": "SufficMobile",
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp48.jpg",
+		"collections": "skyview"
+	},
+	{
 		"name": "Blurry tree",
 		"author": "SufficMobile",
 		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp26.jpg",
@@ -185,99 +203,81 @@
 		"collections": "touristic"
 	},
 	{
-		"name": "Chrome Abstraction",
+		"name": "Beach@Yalova",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp33.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp3.JPG",
+		"collections": "seaside,yalova"
 	},
 	{
-		"name": "Yellow Drop",
+		"name": "KizKulesi@Istanbul",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp34.png",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp4.JPG",
+		"collections": "seaside,istanbul"
 	},
 	{
-		"name": "Sparks in the dark",
+		"name": "Live flowers of cottage",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp35.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp5.JPG",
+		"collections": "flowers,istanbul"
 	},
 	{
-		"name": "Blue Roundings",
+		"name": "Cottage flowers 2",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp36.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp6.JPG",
+		"collections": "flowers,istanbul"
 	},
 	{
-		"name": "Skin of father tree",
+		"name": "Calendulas on the farmway",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp37.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp7.JPG",
+		"collections": "flowers"
 	},
 	{
-		"name": "Blue whirl",
+		"name": "Jasmines of Marmara",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp38.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp8.JPG",
+		"collections": "flowers"
 	},
 	{
-		"name": "Wall draw 1",
+		"name": "Pinks of the farm",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp39.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp9.JPG",
+		"collections": "flowers"
 	},
 	{
-		"name": "Wall draw 2",
+		"name": "Daisies rising",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp40.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp10.JPG",
+		"collections": "flowers"
 	},
 	{
-		"name": "Never ending tail",
+		"name": "Islands of Istanbul",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp41.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp11.JPG",
+		"collections": "istanbul,landscapes"
 	},
 	{
-		"name": "Cells blackened",
+		"name": "From plane",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp42.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp12.JPG",
+		"collections": "sky"
 	},
 	{
-		"name": "Black whirl",
+		"name": "Ducks hanging at park",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp43.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp13.JPG",
+		"collections": "istanbul"
 	},
 	{
-		"name": "Corn grill",
+		"name": "Uskudar@Istanbul",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp44.jpg",
-		"collections": "abstract"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp1.jpg",
+		"collections": "landscapes,seaside,istanbul"
 	},
 	{
-		"name": "Night of sea side",
+		"name": "Spring@Istanbul",
 		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp45.jpg",
-		"collections": "seaside"
-	},
-	{
-		"name": "Dawn at metropole",
-		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp46.jpg",
-		"collections": "landscapes"
-	},
-	{
-		"name": "Snowy road",
-		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp47.jpg",
-		"collections": "winter"
-	},
-	{
-		"name": "Alone bird",
-		"author": "SufficMobile",
-		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp48.jpg",
-		"collections": "skyview"
+		"url": "https://raw.githubusercontent.com/Suffic-Mobile/mobile-assets/main/wallp2.JPG",
+		"collections": "landscapes,flowers,istanbul"
 	}
 ]
